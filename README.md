@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a Gamer, Farmer, Rancher, Developer, Computer Technician, Hardware Technician, Geek, Nerd, Otaku, and I like to give that little help to people
+### “Sou um homem simples, tentando fazer meu caminho através da galáxia, como meu pai antes de mim.”
 
 - ✅ I'm currently learning new things 🤯
 
