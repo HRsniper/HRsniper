@@ -59,11 +59,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
-2. 💪 Opened PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
-3. 💪 Opened PR [#2213](https://github.com/webpack/webpack-cli/pull/2213) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. ❌ Reopened PR [#1611](https://github.com/webpack/webpack-cli/pull/1611) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. ❌ Closed PR [#1611](https://github.com/webpack/webpack-cli/pull/1611) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1.
+2.
+3.
+4.
+5.
 <!--END_SECTION:activity-->
 
 <br />
