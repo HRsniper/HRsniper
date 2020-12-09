@@ -68,11 +68,7 @@
 
 ---
 
-<<<<<<< HEAD
-[<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRsniper&layout=compact&theme=dracula&hide_border=true&langs_count=10" />][github]
-=======
 [<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRsniper&layout=compact&theme=dracula&hide_border=true&langs_count=10" />][github]
->>>>>>> a5e52a1a036630023f4310b8c4166b09830cda28
 [<img align="center" alt="HRsniper Github Stats" src="https://github-readme-stats.vercel.app/api?username=HRsniper&show_icons=true&theme=dracula&hide_border=true&count_private=true" />][github]
 
 [github]: https://github.com/HRsniper
