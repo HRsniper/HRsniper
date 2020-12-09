@@ -59,8 +59,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1.
-2.
+1. ❌ Closed PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
+2. 💪 Opened PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
 3.
 4.
 5.
