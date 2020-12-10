@@ -59,8 +59,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
-2. 💪 Opened PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
+1. 💪 Opened PR [#1](https://github.com/rodrigonex/ProductApi/pull/1) in [rodrigonex/ProductApi](https://github.com/rodrigonex/ProductApi)
+2. ❌ Closed PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
 3.
 4.
 5.
