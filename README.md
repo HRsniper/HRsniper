@@ -54,17 +54,20 @@
 
 <br />
 
-### Recent GitHub Activity
-
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#296](https://github.com/perifacode/conteudo-gratuito/pull/296) in [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito)
-2. 💪 Opened PR [#1](https://github.com/rodrigonex/ProductApi/pull/1) in [rodrigonex/ProductApi](https://github.com/rodrigonex/ProductApi)
-3. ❌ Closed PR [#4](https://github.com/rocketseat-content/youtube-crawler-codedrops/pull/4) in [rocketseat-content/youtube-crawler-codedrops](https://github.com/rocketseat-content/youtube-crawler-codedrops)
+1. 
+2. 
+3. 
 4.
 5.
 <!--END_SECTION:activity-->
+
+</details>
 
 <br />
 
