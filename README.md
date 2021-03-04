@@ -45,12 +45,13 @@
 [<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+[<img align="center" alt="Next.Js" width="26px" src="https://simpleicons.org/icons/next-dot-js.svg" />][github]
+[<img align="center" alt="Elixir" width="26px" src="https://simpleicons.org/icons/elixir.svg" />][github]
 
 <!-- [<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github] -->
-<!-- [<img align="center" alt="Next.Js" width="26px" src="https://simpleicons.org/icons/next-dot-js.svg" />][github] -->
 <!-- [<img align="center" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][github] -->
 <!-- [<img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][github] -->
-<!-- [<img align="center" alt="Elixir" width="26px" src="https://simpleicons.org/icons/elixir.svg" />][github] -->
+
 
 <br />
 
