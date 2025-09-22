@@ -7,71 +7,83 @@
 ### Connect with me
 
 - [<img align="center" width="96" src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />][linkedin]
-- [<img align="center" width="96" src="https://img.shields.io/badge/discord-5865F2?logo=discord&style=for-the-badge&logoColor=white" />][discord]
+<!-- - [<img align="center" width="96" src="https://img.shields.io/badge/discord-5865F2?logo=discord&style=for-the-badge&logoColor=white" />][discord] -->
 
-### Languages and Tools
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][typescript]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />][elixir]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />][go]
-[<img height="32" width="32" src=".github/sql-lang.svg" />][sql]
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/markdown.svg" />][markdown]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html5]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][css3]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/styledcomponents.svg" />][styled-components]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/deno.svg" />][deno]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][nodejs]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />][npm]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />][yarn]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][react]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][react-native]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />][nextjs]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />][nestjs]
-[<img height="32" width="32" src="https://www.msys2.org/logo.svg" />][msys2]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />][gcc]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/llvm.svg" />][llvm]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />][mongodb]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgresql]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sqlite.svg" />][sqlite]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
-[<img height="32" width="32" src=".github/docker-composer.svg" />][docker-compose]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opengl.svg" />][opengl]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opencv.svg" />][opencv]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/insomnia.svg" />][insomnia]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />][windownsterminal]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg" />][powershell]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />][apachekafka]
-
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gnubash.svg" />][bash] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />][webpack] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />][babel] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />][rust] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php] -->
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][mysql] -->
+</br>
 
 ---
 
-<!--
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-- >
-1.
-2.
-3.
-4.
-5.
-<!--END_SECTION:activity-- >
+<summary>Languages</summary>
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />][cpp]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />][javascript]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />][typescript]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />][elixir]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />][go]
+[<img height="32" width="32" src=".github/sql-lang.svg" />][sql]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />][markdown]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />][html5]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />][css3]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />][lua]
+
 </details>
--->
+
+---
+
+<details>
+<summary>Tools</summary>
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />][vscode]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />][git]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />][github]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />][sass]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" />][styled-components]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" />][deno]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />][nodejs]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />][npm]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />][yarn]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />][react]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />][react-native]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />][nextjs]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />][nestjs]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />][msys2]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" />][gcc]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" />][llvm]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />][mongodb]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />][postgresql]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />][sqlite]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />][docker]
+[<img height="32" width="32" src=".github/docker-composer.svg" />][docker-compose]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />][kubernetes]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />][opengl]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />][opencv]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />][insomnia]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />][powershell]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />][apachekafka]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" />][love2d]
+
+</details>
+
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/gnubash.svg" />][bash] -->
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />][python] -->
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />][webpack] -->
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />][babel] -->
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />][rust] -->
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />][php] -->
+
+---
+
+<!-- <details> -->
+  <!-- <summary>⏲️ Recent GitHub Activity</summary> -->
+<!--START_SECTION:activity-->
+<!-- 1. -->
+<!-- 2. -->
+<!-- 3. -->
+<!-- 4. -->
+<!-- 5. -->
+<!--END_SECTION:activity-->
+<!-- </details> -->
 
 <br />
 
@@ -80,7 +92,7 @@
 
 [github]: https://github.com/HRsniper/
 [linkedin]: https://www.linkedin.com/in/hercules-ramlow/
-[discord]: https://discord.com/users/303181522481971200/
+[discord]: https://discord.com/users/__/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 [typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
@@ -125,3 +137,5 @@
 [powershell]: https://github.com/powershell/powershell/
 [bash]: https://www.gnu.org/software/bash/
 [sql]: https://www.w3schools.com/sql/sql_quickref.asp
+[lua]: https://www.lua.org/
+[love2d]: https://love2d.org/
